@@ -6,7 +6,7 @@ The whole package is 14k gzipped, and contains 249 flags.
 
 ## Easy to use:
 
-Just download and include country_flags.css and country_flags_sprite.png (you can find them zipped in **/dist**)
+Just download and include **country_flags.css** and **country_flags_sprite.png** (you can find them zipped in **/dist** too)
 
 Example:
 ```
