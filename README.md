@@ -23,7 +23,7 @@ run
 npm i
 ```
 
-then create a **.env** file with your tinify (TinyPNG) API Key ( https://tinypng.com/developers )[https://tinypng.com/developers ]
+then create a **.env** file with your tinify (TinyPNG) API Key [https://tinypng.com/developers]
 Like this:
 
 ```
