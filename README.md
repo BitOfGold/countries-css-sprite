@@ -27,7 +27,7 @@ then create a **.env** file with your tinify (TinyPNG) API Key [https://tinypng.
 Like this:
 
 ```
-TINIFY_API_KEY=<YOUR KEYy
+TINIFY_API_KEY=<YOUR API KEY>
 ```
 
 then run
