@@ -23,10 +23,10 @@ run
 npm i
 ```
 
-then create an .env file with you TinyPNG API Key ( https://tinypng.com/developers )
+then create an .env file with your tinify (TinyPNG) API Key ( https://tinypng.com/developers )
 
 ```
-TINYPNG_API_KEY=<YOUR KEYy
+TINIFY_API_KEY=<YOUR KEYy
 ```
 
 then run
@@ -34,7 +34,8 @@ then run
 node create.js
 ```
 
-The Luxemburg (LU) flag has errors, I included LU.svg that you should copy into flags and re-run.
+The downloaded Luxemburg (LU) flag .svg had errors, I included LU.svg that you should copy into **flags** directory after downloading and re-run.
 
 If you want the latest data, delete **iso__country_code.html**, **flags** and **resized_flags** directories, as those are cached.
+
 
