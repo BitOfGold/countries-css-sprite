@@ -1,0 +1,289 @@
+
+.country-flag {
+  display: inline-block;
+  height: 16px;
+  background-image: url('country_flags_sprite.png');
+  background-repeat: no-repeat;
+}
+
+.NP { width: 13px; margin-right: 19px; }
+.NP { background-position: -424px -64px; }
+
+.CH, .VA { width: 16px; margin-right: 16px; }
+.CH { background-position: -101px -16px; }
+.VA { background-position: -212px -96px; }
+
+.NE { width: 19px; margin-right: 13px; }
+.NE { background-position: -268px -64px; }
+
+.MC { width: 20px; margin-right: 12px; }
+.MC { background-position: -646px -48px; }
+
+.CD, .DK, .GA, .PG, .SM { width: 21px; margin-right: 11px; }
+.CD { background-position: -32px -16px; }
+.DK { background-position: -510px -16px; }
+.GA { background-position: -970px -16px; }
+.PG { background-position: -633px -64px; }
+.SM { background-position: -376px -80px; }
+
+.AL, .BV, .FO, .IL, .IS, .NO, .SJ { width: 22px; margin-right: 10px; }
+.AL { background-position: -135px -0px; }
+.BV { background-position: -884px -0px; }
+.FO { background-position: -924px -16px; }
+.IL { background-position: -681px -32px; }
+.IS { background-position: -843px -32px; }
+.NO { background-position: -402px -64px; }
+.SJ { background-position: -306px -80px; }
+
+.AD, .BO, .BR { width: 23px; margin-right: 9px; }
+.AD { background-position: -0px -0px; }
+.BO { background-position: -758px -0px; }
+.BR { background-position: -805px -0px; }
+
+.AF, .AG, .AO, .AT, .AW, .AX, .BB, .BE, .BF, .BJ, .BL, .BQ, .BT, .BW, .CF, .CG, .CI, .CL, .CM, .CN, .CO, .CW, .CY, .CZ, .DJ, .DO, .DZ, .EC, .EG, .ES, .FR, .GE, .GF, .GG, .GH, .GL, .GM, .GN, .GP, .GQ, .GR, .HK, .ID, .IN, .IQ, .IT, .JP, .KE, .KN, .KR, .LA, .LB, .LS, .MA, .MF, .MG, .ML, .MM, .MO, .MQ, .MR, .MT, .MU, .MV, .MW, .MZ, .NA, .NL, .PA, .PE, .PF, .PK, .PM, .PR, .PT, .RE, .RO, .RS, .RU, .RW, .SA, .SG, .SK, .SL, .SN, .SO, .SR, .SX, .SY, .SZ, .TD, .TF, .TG, .TH, .TM, .TN, .TR, .TW, .TZ, .UA, .UG, .UY, .VC, .VE, .VI, .VN, .WF, .YE, .YT, .ZA, .ZM { width: 24px; margin-right: 8px; }
+.AF { background-position: -55px -0px; }
+.AG { background-position: -79px -0px; }
+.AO { background-position: -189px -0px; }
+.AT { background-position: -298px -0px; }
+.AW { background-position: -354px -0px; }
+.AX { background-position: -378px -0px; }
+.BB { background-position: -466px -0px; }
+.BE { background-position: -517px -0px; }
+.BF { background-position: -541px -0px; }
+.BJ { background-position: -646px -0px; }
+.BL { background-position: -670px -0px; }
+.BQ { background-position: -781px -0px; }
+.BT { background-position: -860px -0px; }
+.BW { background-position: -906px -0px; }
+.CF { background-position: -53px -16px; }
+.CG { background-position: -77px -16px; }
+.CI { background-position: -117px -16px; }
+.CL { background-position: -173px -16px; }
+.CM { background-position: -197px -16px; }
+.CN { background-position: -221px -16px; }
+.CO { background-position: -245px -16px; }
+.CW { background-position: -355px -16px; }
+.CY { background-position: -411px -16px; }
+.CZ { background-position: -435px -16px; }
+.DJ { background-position: -486px -16px; }
+.DO { background-position: -563px -16px; }
+.DZ { background-position: -587px -16px; }
+.EC { background-position: -611px -16px; }
+.EG { background-position: -660px -16px; }
+.ES { background-position: -748px -16px; }
+.FR { background-position: -946px -16px; }
+.GE { background-position: -27px -32px; }
+.GF { background-position: -51px -32px; }
+.GG { background-position: -75px -32px; }
+.GH { background-position: -99px -32px; }
+.GL { background-position: -155px -32px; }
+.GM { background-position: -179px -32px; }
+.GN { background-position: -203px -32px; }
+.GP { background-position: -227px -32px; }
+.GQ { background-position: -251px -32px; }
+.GR { background-position: -275px -32px; }
+.HK { background-position: -446px -32px; }
+.ID { background-position: -625px -32px; }
+.IN { background-position: -735px -32px; }
+.IQ { background-position: -791px -32px; }
+.IT { background-position: -865px -32px; }
+.JP { background-position: -980px -32px; }
+.KE { background-position: -0px -48px; }
+.KN { background-position: -135px -48px; }
+.KR { background-position: -191px -48px; }
+.LA { background-position: -311px -48px; }
+.LB { background-position: -335px -48px; }
+.LS { background-position: -480px -48px; }
+.MA { background-position: -622px -48px; }
+.MF { background-position: -730px -48px; }
+.MG { background-position: -754px -48px; }
+.ML { background-position: -840px -48px; }
+.MM { background-position: -864px -48px; }
+.MO { background-position: -920px -48px; }
+.MQ { background-position: -976px -48px; }
+.MR { background-position: -1000px -48px; }
+.MT { background-position: -32px -64px; }
+.MU { background-position: -56px -64px; }
+.MV { background-position: -80px -64px; }
+.MW { background-position: -104px -64px; }
+.MZ { background-position: -188px -64px; }
+.NA { background-position: -212px -64px; }
+.NL { background-position: -378px -64px; }
+.PA { background-position: -561px -64px; }
+.PE { background-position: -585px -64px; }
+.PF { background-position: -609px -64px; }
+.PK { background-position: -686px -64px; }
+.PM { background-position: -736px -64px; }
+.PR { background-position: -792px -64px; }
+.PT { background-position: -848px -64px; }
+.RE { background-position: -968px -64px; }
+.RO { background-position: -992px -64px; }
+.RS { background-position: -0px -80px; }
+.RU { background-position: -24px -80px; }
+.RW { background-position: -48px -80px; }
+.SA { background-position: -72px -80px; }
+.SG { background-position: -218px -80px; }
+.SK { background-position: -328px -80px; }
+.SL { background-position: -352px -80px; }
+.SN { background-position: -397px -80px; }
+.SO { background-position: -421px -80px; }
+.SR { background-position: -445px -80px; }
+.SX { background-position: -561px -80px; }
+.SY { background-position: -585px -80px; }
+.SZ { background-position: -609px -80px; }
+.TD { background-position: -665px -80px; }
+.TF { background-position: -689px -80px; }
+.TG { background-position: -713px -80px; }
+.TH { background-position: -737px -80px; }
+.TM { background-position: -857px -80px; }
+.TN { background-position: -881px -80px; }
+.TR { background-position: -937px -80px; }
+.TW { background-position: -0px -96px; }
+.TZ { background-position: -24px -96px; }
+.UA { background-position: -48px -96px; }
+.UG { background-position: -72px -96px; }
+.UY { background-position: -156px -96px; }
+.VC { background-position: -228px -96px; }
+.VE { background-position: -252px -96px; }
+.VI { background-position: -308px -96px; }
+.VN { background-position: -332px -96px; }
+.WF { background-position: -383px -96px; }
+.YE { background-position: -439px -96px; }
+.YT { background-position: -463px -96px; }
+.ZA { background-position: -487px -96px; }
+.ZM { background-position: -511px -96px; }
+
+.EE, .KH { width: 25px; margin-right: 7px; }
+.EE { background-position: -635px -16px; }
+.KH { background-position: -51px -48px; }
+
+.AR, .FI, .GT, .PL, .PW, .SE { width: 26px; margin-right: 6px; }
+.AR { background-position: -240px -0px; }
+.FI { background-position: -804px -16px; }
+.GT { background-position: -331px -32px; }
+.PL { background-position: -710px -64px; }
+.PW { background-position: -872px -64px; }
+.SE { background-position: -192px -80px; }
+
+.AQ, .BD, .BG, .BH, .BI, .BZ, .CR, .CV, .DE, .GD, .GY, .HT, .JE, .KG, .KM, .LI, .LT, .LU, .NI, .TT, .VU { width: 27px; margin-right: 5px; }
+.AQ { background-position: -213px -0px; }
+.BD { background-position: -490px -0px; }
+.BG { background-position: -565px -0px; }
+.BH { background-position: -592px -0px; }
+.BI { background-position: -619px -0px; }
+.BZ { background-position: -962px -0px; }
+.CR { background-position: -269px -16px; }
+.CV { background-position: -328px -16px; }
+.DE { background-position: -459px -16px; }
+.GD { background-position: -0px -32px; }
+.GY { background-position: -419px -32px; }
+.HT { background-position: -566px -32px; }
+.JE { background-position: -889px -32px; }
+.KG { background-position: -24px -48px; }
+.KM { background-position: -108px -48px; }
+.LI { background-position: -391px -48px; }
+.LT { background-position: -504px -48px; }
+.LU { background-position: -531px -48px; }
+.NI { background-position: -351px -64px; }
+.TT { background-position: -961px -80px; }
+.VU { background-position: -356px -96px; }
+
+.IR, .MX, .OM, .SV { width: 28px; margin-right: 4px; }
+.IR { background-position: -815px -32px; }
+.MX { background-position: -128px -64px; }
+.OM { background-position: -533px -64px; }
+.SV { background-position: -533px -80px; }
+
+.PY { width: 29px; margin-right: 3px; }
+.PY { background-position: -898px -64px; }
+
+.FM, .GU, .LR, .MH, .UM, .US { width: 30px; margin-right: 2px; }
+.FM { background-position: -894px -16px; }
+.GU { background-position: -357px -32px; }
+.LR { background-position: -450px -48px; }
+.MH { background-position: -778px -48px; }
+.UM { background-position: -96px -96px; }
+.US { background-position: -126px -96px; }
+
+.AE, .AI, .AM, .AS, .AU, .AZ, .BA, .BM, .BN, .BS, .BY, .CA, .CC, .CK, .CU, .CX, .DM, .EH, .ER, .ET, .FJ, .FK, .GB, .GI, .GS, .GW, .HM, .HN, .HR, .HU, .IE, .IM, .IO, .JM, .JO, .KI, .KP, .KW, .KY, .KZ, .LC, .LK, .LV, .LY, .MD, .ME, .MK, .MN, .MP, .MS, .MY, .NC, .NF, .NG, .NR, .NU, .NZ, .PH, .PN, .PS, .SB, .SC, .SD, .SH, .SI, .SS, .ST, .TC, .TJ, .TK, .TL, .TO, .TV, .UZ, .VG, .WS, .ZW { width: 32px; margin-right: 0px; }
+.AE { background-position: -23px -0px; }
+.AI { background-position: -103px -0px; }
+.AM { background-position: -157px -0px; }
+.AS { background-position: -266px -0px; }
+.AU { background-position: -322px -0px; }
+.AZ { background-position: -402px -0px; }
+.BA { background-position: -434px -0px; }
+.BM { background-position: -694px -0px; }
+.BN { background-position: -726px -0px; }
+.BS { background-position: -828px -0px; }
+.BY { background-position: -930px -0px; }
+.CA { background-position: -989px -0px; }
+.CC { background-position: -0px -16px; }
+.CK { background-position: -141px -16px; }
+.CU { background-position: -296px -16px; }
+.CX { background-position: -379px -16px; }
+.DM { background-position: -531px -16px; }
+.EH { background-position: -684px -16px; }
+.ER { background-position: -716px -16px; }
+.ET { background-position: -772px -16px; }
+.FJ { background-position: -830px -16px; }
+.FK { background-position: -862px -16px; }
+.GB { background-position: -991px -16px; }
+.GI { background-position: -123px -32px; }
+.GS { background-position: -299px -32px; }
+.GW { background-position: -387px -32px; }
+.HM { background-position: -470px -32px; }
+.HN { background-position: -502px -32px; }
+.HR { background-position: -534px -32px; }
+.HU { background-position: -593px -32px; }
+.IE { background-position: -649px -32px; }
+.IM { background-position: -703px -32px; }
+.IO { background-position: -759px -32px; }
+.JM { background-position: -916px -32px; }
+.JO { background-position: -948px -32px; }
+.KI { background-position: -76px -48px; }
+.KP { background-position: -159px -48px; }
+.KW { background-position: -215px -48px; }
+.KY { background-position: -247px -48px; }
+.KZ { background-position: -279px -48px; }
+.LC { background-position: -359px -48px; }
+.LK { background-position: -418px -48px; }
+.LV { background-position: -558px -48px; }
+.LY { background-position: -590px -48px; }
+.MD { background-position: -666px -48px; }
+.ME { background-position: -698px -48px; }
+.MK { background-position: -808px -48px; }
+.MN { background-position: -888px -48px; }
+.MP { background-position: -944px -48px; }
+.MS { background-position: -0px -64px; }
+.MY { background-position: -156px -64px; }
+.NC { background-position: -236px -64px; }
+.NF { background-position: -287px -64px; }
+.NG { background-position: -319px -64px; }
+.NR { background-position: -437px -64px; }
+.NU { background-position: -469px -64px; }
+.NZ { background-position: -501px -64px; }
+.PH { background-position: -654px -64px; }
+.PN { background-position: -760px -64px; }
+.PS { background-position: -816px -64px; }
+.SB { background-position: -96px -80px; }
+.SC { background-position: -128px -80px; }
+.SD { background-position: -160px -80px; }
+.SH { background-position: -242px -80px; }
+.SI { background-position: -274px -80px; }
+.SS { background-position: -469px -80px; }
+.ST { background-position: -501px -80px; }
+.TC { background-position: -633px -80px; }
+.TJ { background-position: -761px -80px; }
+.TK { background-position: -793px -80px; }
+.TL { background-position: -825px -80px; }
+.TO { background-position: -905px -80px; }
+.TV { background-position: -988px -80px; }
+.UZ { background-position: -180px -96px; }
+.VG { background-position: -276px -96px; }
+.WS { background-position: -407px -96px; }
+.ZW { background-position: -535px -96px; }
+
+.QA { width: 41px; margin-right: -9px; }
+.QA { background-position: -927px -64px; }
+
