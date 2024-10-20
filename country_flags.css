@@ -1,5 +1,6 @@
 
 .country-flag {
+  box-sizing: content-box;
   display: inline-block;
   height: 16px;
   background-image: url('country_flags_sprite.png');

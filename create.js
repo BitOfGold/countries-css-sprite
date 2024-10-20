@@ -168,6 +168,7 @@ async function createSprite() {
 async function generateCSS({ flagMetadata, rows }) {
   let css = `
 .country-flag {
+  box-sizing: content-box;
   display: inline-block;
   height: ${FHEIGHT}px;
   background-image: url('country_flags_sprite.png');
